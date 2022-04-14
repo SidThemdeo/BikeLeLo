@@ -1,2 +1,2 @@
 # BikeLeLo
-Online Vehicle (two wheeler) Booking Portal
+Online Bike Booking Portal
